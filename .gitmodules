@@ -1,0 +1,6 @@
+[submodule "leetcode"]
+	path = leetcode
+	url = https://github.com/indestinee/leetcode
+[submodule "HackerRankProjectEuler"]
+	path = HackerRankProjectEuler
+	url = https://github.com/indestinee/HackerRankProjectEuler
